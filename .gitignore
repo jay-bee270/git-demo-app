@@ -1,2 +1,7 @@
-   index.txt
-   
+index.txt
+*txt
+info-[1-4].txt
+js/*
+!js/bootstrap.js
+css/asset-[2-3].css
+contact.html
